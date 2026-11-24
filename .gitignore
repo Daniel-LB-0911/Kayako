@@ -1,0 +1,11 @@
+# 環境變數（保留 .env.example 不被忽略）
+.env
+.env.local
+
+# Python 快取
+__pycache__/
+*.py[cod]
+
+# 虛擬環境
+venv/
+.venv/
